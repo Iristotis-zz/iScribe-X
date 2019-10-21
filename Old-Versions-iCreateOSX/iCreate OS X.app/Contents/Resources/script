@@ -1,6 +1,0 @@
-cd ..
-cd ..
-cd ..
-cd ..
-sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/ElCapInstaller --applicationpath ~/iCreateOSX/Install\ OS\ X\ El\ Capitan.app --nointeraction
-echo "Sorry! We Couldn't Find an El Capitan Installer. Is it in /Applications or Downloaded by iGrab?"
