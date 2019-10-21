@@ -1,4 +1,4 @@
-# iScribe-X
+# macOSscriber
 Create macOS Installer USB Drives on macOS &amp; Linux.
 
 How To Use This Program (In Pre-Release)
@@ -10,3 +10,4 @@ How To Use This Program (In Pre-Release)
 6. Wait for Program to Finish, It will exit on it's own.
 
 Please Note: This program may not work on certain Operating Systems, This has been tested on Mac OS 10.9 Mavericks.
+Also Note: Future Versions of this App Will Be Called "iScribe X" Old Versions are Called "iCreate OSX."
