@@ -77,7 +77,6 @@ case $input in
        ;;
     *)
  echo "Invalid input..."
- exit 1
  ;;
 esac
 read -r -p "Do You Want to Create a El Capitan USB Drive? [Y/n] " input
@@ -95,7 +94,6 @@ case $input in
        ;;
     *)
  echo "Invalid input..."
- exit 1
  ;;
 esac
 read -r -p "Do You Want to Create a High Sierra USB Drive? [Y/n] " input
@@ -113,7 +111,6 @@ case $input in
        ;;
     *)
  echo "Invalid input..."
- exit 1
  ;;
 esac
 echo "Thank You for Using macOSscirber! Please Give Me Feedback on this Utility on the Download Page."
